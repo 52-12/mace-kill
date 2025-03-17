@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "org.maceKill.Main",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Mace Kill",
+  "URL": "",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ]
+}
