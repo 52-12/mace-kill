@@ -8,6 +8,7 @@
     "kybe236"
   ],
   "Minecraft-Versions": [
-    "${project.minecraft_version}"
+    "${project.minecraft_version}",
+    "1.21.11"
   ]
 }
