@@ -13,5 +13,5 @@ only works in the air so turn on flight or jump
 ```
 git clone https://github.com/52-12/mace-kill.git
 cd mace-kill
-./gradlew.bat
+./gradlew.bat build
 ```
